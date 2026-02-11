@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "measureR"]
+	path = measureR
+	url = https://github.com/hdmeasure/measurer
 [submodule "projectLSA"]
 	path = projectLSA
 	url = https://github.com/hdmeasure/projectlsa
